@@ -1,2 +1,5 @@
-# VPL-Inventory-Management
-A WPF-based Inventory Management System developed using C#, demonstrating GUI design, OOP, file handling, and multithreading.
+# VPLAssist+ Inventory Management System
+[InventoryManagment.zip](https://github.com/user-attachments/files/24548130/InventoryManagment.zip)
+A WPF-based inventory management system developed using C#.  
+Demonstrates GUI programming, OOP, file handling, and multithreading.
+
